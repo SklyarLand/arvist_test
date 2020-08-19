@@ -23,7 +23,7 @@ branches:
     
         name - varchar(100)
         
-      e-mail - text(5000)
+      info - text(5000)
 
 workers:
 
